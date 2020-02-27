@@ -14,7 +14,8 @@
   "author": "sibukixxx",
   "license": "ISC",
   "dependencies": {
-    "@google/clasp": "^2.3.0"
+    "@google/clasp": "^2.3.0",
+    "npm-check-updates": "^4.0.2"
   },
   "devDependencies": {
     "@types/google-apps-script": "1.0.10",
